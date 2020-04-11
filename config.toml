@@ -56,17 +56,25 @@ googleAnalytics = "UA-49300323-1"
     weight = 4
     url = "https://www.facebook.com/josephkahn"
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
+    name = "Email"
+    icon = "fas fa-envelope-square"
     weight = 5
-    url = "https://twitter.com/JosephBKahn/"
+    url = "mailto:josephbkahn@gmail.com"
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "https://dev.to/jbkahn"
-[[menu.main]]
     name = "About"
-    weight = 2
+    weight = 1
     url = "/about/"
+[[menu.main]]
+    name = "Speaking"
+    weight = 2
+    url = "/speaking/"
+[[menu.main]]
+    name = "Articles"
+    weight = 3
+    url = "/articles/"
+[[menu.main]]
+    name = "Blog"
+    weight = 4
+    url  = "https://dev.to/jbkahn"
