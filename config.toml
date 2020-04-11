@@ -12,6 +12,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "JBKahn"
+googleAnalytics = "UA-49300323-1"
 
 [params]
     author = "Joseph Kahn"
