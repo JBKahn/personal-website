@@ -60,6 +60,11 @@ googleAnalytics = "UA-49300323-1"
     icon = "fas fa-envelope-square"
     weight = 5
     url = "mailto:josephbkahn@gmail.com"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 6
+    url = "https://twitter.com/JosephBKahn/"
 
 # Menu links
 [[menu.main]]

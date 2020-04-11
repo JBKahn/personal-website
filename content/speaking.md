@@ -27,6 +27,21 @@ At Wave, I've been a part of the team, from inception to now, rewriting and repl
 
 I'll speak to the plan we had, how we executed it, the pitfalls, the wins and how we move millions of users worth of data with little to no downtime except a few minutes for a given user.
 
+### Testing Responsibly With Python
+
+There was no video recording that day at the python meetup!
+
+{{< rawhtml >}}
+<p><iframe src="https://docs.google.com/presentation/d/1ntrezZ8NWTaZUSpn8iqRcF_BLEt_0IhXtGN5tBUefuo/embed?start=false&loop=false&delayms=5000" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+{{< /rawhtml >}}
+
+##### When
+2018
+
+##### Topic: 
+A talk on testing in python focusing on the pitfalls of using mock poorly at scale.
+
+
 ### How Wave does database sharding with Django
 
 {{< youtube 7CEsc-GgLyg >}}
